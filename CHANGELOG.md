@@ -26,6 +26,7 @@
 ### Removed
 - **BREAKING**: AngularJS support.
 - **BREAKING**: SystemJS support.
+- **BREAKING**: `compile-less` command. Handled by webpack.
 
 ## 6.5.0 - 2019-03-05
 
